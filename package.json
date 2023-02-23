@@ -1,0 +1,22 @@
+{
+  "name": "pp1-kainos-ui",
+  "version": "1.0.0",
+  "description": "UI for Personal Project 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbiyeCS/PP1-kainos-ui.git"
+  },
+  "author": "Abiye Selema <mieabiye.selema@kainos.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbiyeCS/PP1-kainos-ui/issues"
+  },
+  "homepage": "https://github.com/AbiyeCS/PP1-kainos-ui#readme",
+  "dependencies": {
+    "govuk-frontend": "^4.5.0"
+  }
+}
